@@ -93,21 +93,21 @@ var app = new Vue({
   data: {
     items: [
       {
-        img: "https://chenyiya.com/codepen/product-1.jpg",
-        title: "Beer Bottle",
-        price: "25",
+        img: "https://raw.githubusercontent.com/Primsx/mws/master/media%20files/images/bau-35465-iphone-x-space-grey-gallery-master-01-130917-590x380.jpg",
+        title: "Iphone X",
+        price: "999.00",
         id: "beer"
       },
       {
-        img: "https://chenyiya.com/codepen/product-2.jpg",
-        title: "Eco Bag",
-        price: "73",
+        img: "https://raw.githubusercontent.com/Primsx/mws/master/media%20files/images/nokia5-1-590x380.jpg",
+        title: "Nokia 5",
+        price: "169.99",
         id: "eco-bag"
       },
       {
-        img: "https://chenyiya.com/codepen/product-3.jpg",
-        title: "Paper Bag",
-        price: "35",
+        img: "https://raw.githubusercontent.com/Primsx/mws/master/media%20files/images/jblflip4-590x380.jpg",
+        title: "JBL Flip 4",
+        price: "119.99",
         id: "paper-bag"
       }
     ],
